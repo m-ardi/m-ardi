@@ -20,7 +20,3 @@ Backend & AI 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 | Specialized in Larav
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ardi722308@gmail.com)
 
 ---
-
-𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-ardi&theme=tokyo-night&hide_border=true&area=true)](https://github.com/m-ardi)
